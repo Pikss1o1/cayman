@@ -1,11 +1,11 @@
 title: <p align="center"> Pulkit Kumar </p>
-logo: /assets/img/logo.png
+logo: /assets/logo.jpg
 
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
-  <a href="https://github.com/sajankedia">GitHub</a>
+  <a href="https://www.linkedin.com/in/pulkit-kumar-83a515143/">LinkedIn</a> |
+  <a href="https://github.com/pikss1o1">GitHub</a>
   
   <br>   
   I'm working on Data Science, Big Data & Azure data management problems.
@@ -14,4 +14,4 @@ description:
 
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
