@@ -8,7 +8,7 @@ A data project on fraud detection leverages advanced machine learning algorithms
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/fraud_detection.jpg"/></center>
 
 ---
 ### Data Migration
@@ -17,5 +17,5 @@ A data project on Data Migration on Azure involves the seamless transfer of larg
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
 
-<center><img src="images/Azure_cloud.jpg"/></center>
+<center><img src="assets/Azure_cloud.jpg"/></center>
 
